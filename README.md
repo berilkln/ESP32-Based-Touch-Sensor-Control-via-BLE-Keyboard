@@ -135,3 +135,7 @@ further to include additional functionalities or integrate with other applicatio
 ### 10 References
 - ESP32 Documentation
 - BleKeyboard Library GitHub
+
+
+![Arduino Design](https://github.com/berilkln/ESP32-Based-Touch-Sensor-Control-via-BLE-Keyboard/blob/main/arduino_design.png?raw=true)
+
